@@ -14,4 +14,6 @@
 
 ### Развертывание
 - Перед началом вам нужно создать файл .env и добавить туда данные из env.example
-- docker-compose up -d --build
+```sh
+docker-compose up -d --build
+```
